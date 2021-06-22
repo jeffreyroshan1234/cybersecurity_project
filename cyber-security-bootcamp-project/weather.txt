@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - SHARJAH  || 22 Jun 2021 | 11:31:19 AM
+-------------------------------------------------------------
+Current temperature is: 40.08 deg C
+Current weather desc  : clear sky
+Current Humidity      : 14 %
+Current wind speed    : 4.12 kmph
